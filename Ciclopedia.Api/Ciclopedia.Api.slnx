@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Ciclopedia.Api.Tests/Ciclopedia.Api.Tests.csproj" />
+  <Project Path="../Ciclopedia.Migrations/Ciclopedia.Migrations.csproj" />
+  <Project Path="Ciclopedia.Api.csproj" />
+</Solution>
