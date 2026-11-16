@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ciclopedia.Api\Ciclopedia.Api.csproj" />
+    <ProjectReference Include="..\Ciclopedia.Migrations\Ciclopedia.Migrations.csproj" />
   </ItemGroup>
 
 </Project>
